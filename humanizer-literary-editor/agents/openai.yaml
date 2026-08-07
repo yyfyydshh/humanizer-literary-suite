@@ -1,0 +1,6 @@
+interface:
+  display_name: "文学去AI编辑器"
+  short_description: "依据已确认画像进行最小幅度、剧情情感完全保真的文学去AI改写"
+  default_prompt: "Use $humanizer-literary-editor to revise this literary text against the approved style profile."
+policy:
+  allow_implicit_invocation: false

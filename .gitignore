@@ -1,0 +1,16 @@
+# Private author profiles and manuscript outputs
+.humanizer/
+*-去AI味.*
+*-去AI味-审计报告.md
+*-review.json
+*-integrity.json
+
+# Local source manuscripts and temporary conversions
+*.docx
+*.txt
+tmp/
+temp/
+__pycache__/
+*.py[cod]
+.venv/
+venv/

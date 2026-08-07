@@ -1,0 +1,14 @@
+{
+  "name": "humanizer-literary-suite",
+  "version": "2.0.0",
+  "entry_skill": "humanizer",
+  "skills": [
+    "humanizer",
+    "humanizer-style-profiler",
+    "humanizer-literary-editor",
+    "humanizer-integrity-auditor",
+    "humanizer-ai-reviewer"
+  ],
+  "install_root": "$CODEX_HOME/skills",
+  "scope": "literary-only"
+}

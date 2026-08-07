@@ -1,0 +1,6 @@
+{
+  "slug": "humanizer-literary-suite",
+  "version": "2.0.0",
+  "upgradedFrom": "unclecheng-reduce-ai-perception-v2@1.0.5",
+  "scope": "literary-only"
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "文学AI痕迹复核"
+  short_description: "通过四个独立审稿视角复核文学改稿并汇总可解释的AI痕迹风险分"
+  default_prompt: "Use $humanizer-ai-reviewer to run an independent four-angle review of this literary revision."
+policy:
+  allow_implicit_invocation: false

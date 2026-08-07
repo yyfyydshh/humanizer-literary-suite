@@ -1,0 +1,6 @@
+interface:
+  display_name: "文学作者文风画像"
+  short_description: "从多篇代表作或单篇稿件建立有证据、可确认的文学作者文风画像"
+  default_prompt: "Use $humanizer-style-profiler to analyze these literary samples and draft an author style profile."
+policy:
+  allow_implicit_invocation: false

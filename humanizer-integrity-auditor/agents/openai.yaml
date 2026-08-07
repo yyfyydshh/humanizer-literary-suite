@@ -1,0 +1,6 @@
+interface:
+  display_name: "文学完整性审计"
+  short_description: "核对文学改稿前后的剧情、人物、视角、情感、意象与结局完整性"
+  default_prompt: "Use $humanizer-integrity-auditor to compare the original and revised literary texts."
+policy:
+  allow_implicit_invocation: false

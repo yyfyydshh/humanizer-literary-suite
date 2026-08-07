@@ -1,0 +1,6 @@
+interface:
+  display_name: "文学文风自适应去AI"
+  short_description: "先建立并确认作者文风画像，再保真改稿并进行四角度AI痕迹复核"
+  default_prompt: "Use $humanizer to remove AI traces from this literary text while preserving plot and emotion."
+policy:
+  allow_implicit_invocation: true
